@@ -1,7 +1,7 @@
 # Purpose of this repo
 
-To play with React Native framework amd axplre its vairous features.
-like 
+To play with React Native framework and do experiments with its vairous features.
+like:
 * localization support(multi lingual)
 * enviroment variables
 * bootsplash
